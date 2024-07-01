@@ -1,0 +1,44 @@
+[
+    {
+        "name": "sahil bajracharya",
+        "Rollno": 3,
+        "Address": "woodland",
+        "phone": "1234567890",
+        "email": "w@l.c",
+        "subject": {
+            "maths": 12,
+            "science": 32,
+            "social": 43,
+            "english": 79
+        },
+        "percentage": 41.5
+    },
+    {
+        "name": "Asim Shakya",
+        "Rollno": 1,
+        "Address": "Bhkatapur",
+        "phone": "9876543210",
+        "email": "asim@gmai.com",
+        "subject": {
+            "maths": 56,
+            "science": 23,
+            "social": 29,
+            "english": 89
+        },
+        "percentage": 49.25
+    },
+    {
+        "name": "Praaladh bassnet",
+        "Rollno": 2,
+        "Address": "qw",
+        "phone": "1223121212",
+        "email": "qqw@ll.vv",
+        "subject": {
+            "maths": 35,
+            "science": 43,
+            "social": 54,
+            "english": 34
+        },
+        "percentage": 41.5
+    }
+]
